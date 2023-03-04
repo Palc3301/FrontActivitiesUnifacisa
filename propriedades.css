@@ -1,0 +1,26 @@
+.classe1{
+    background-color: blue;
+}
+
+.classe2{
+    color: aquamarine;
+}
+
+#id1{
+    color: chartreuse;
+}
+
+p{
+    font-style: oblique;
+}
+
+h1{
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+h2{
+    font-size: xx-small;
+    font-style: unset;
+    font-weight: 900;
+}
